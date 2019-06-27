@@ -1,0 +1,11 @@
+#!/usr/bin/env rc
+
+awk -F'\t' '{ print($2 "\t" $1) }' bo_de.tsv >de_bo.tsv
+awk -F'\t' '{ print($2 "\t" $1) }' eo_en.tsv >en_eo.tsv
+awk -F'\t' '{ print($2 "\t" $1) }' fr_en.tsv >en_fr.tsv
+awk -F'\t' '{ print($2 "\t" $1) }' de_en.tsv >en_de.tsv
+
+for(i in `{ls *.tsv}) {
+	j=`{echo $i | sed 's/\.tsv$/.crd/'}
+	fulg add $i $j
+}
