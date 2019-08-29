@@ -1,9 +1,9 @@
 2019-04-09	3	11.4	1.9	as * as *	tiel * kiel *
-2019-04-10	1	1.0	1.4	as/so	tiel
+2019-08-25	2	6	1.5	as/so	tiel
 2019-03-20	5	117.936	2.8	important	grava
 2019-03-06	5	55.499904	2.12	matter	afero
 2019-04-01	4	22.8	2.0	this	ĉi tiu
-2019-03-27	5	146.16	3.0	to act	agi
+2019-08-25	6	453.096	3.1	to act	agi
 2019-03-31	4	16.32	1.7	to forgive	pardoni
 2019-03-27	5	146.16	3.0	to open	malfermi
 2019-03-27	5	146.16	3.0	to respond	respondi
@@ -15,56 +15,58 @@
 2019-04-09	5	146.16	3.0	letter	letero
 2019-04-09	5	141.288	2.9	newspaper	ĵurnalo
 2019-04-10	5	42.352128	2.02	a bit	iomete
-2019-03-22	4	40.8576	2.66	sentence	frazo
+2019-08-25	5	112.766976	2.76	sentence	frazo
 2019-04-01	5	112.766976	2.76	spanish	la hispana
 2019-04-09	5	146.16	3.0	cool	mojosa
 2019-03-20	4	32.2944	2.32	dark	malhela
 2019-04-10	2	6.0	2.68	light	hela
 2019-04-01	5	112.766976	2.76	cake	kuko
 2019-04-10	2	6.0	2.58	lunch	tagmanĝo
-2019-04-02	4	25.6944	2.12	strawberry	frago
-2019-04-09	5	127.008	2.8	to sell	vendi
+2019-08-25	5	57.041568	2.22	strawberry	frago
+2019-08-25	0	314.97984	2.48	to sell	vendi
 2019-04-01	5	112.766976	2.76	to try	provi
 2019-03-31	4	20.0784	1.88	again	denove
 2019-02-24	4	48.72	2.9	bug (programming)	cimo
 2019-02-24	4	45.36	2.8	chicken	koko
 2019-02-24	4	45.36	2.8	fly	muŝo
 2019-03-31	5	89.174016	2.56	pig	porko
-2019-03-20	4	23.2704	2.02	tail	vosto
-2019-02-24	4	48.72	2.9	salt	salo
+2019-08-25	5	49.333248	2.12	tail	vosto
+2019-08-25	5	146.16	3.0	salt	salo
 2019-02-24	4	48.72	2.9	that much	tiom
-2019-04-09	5	113.724	2.7	to order	mendi
+2019-08-25	6	318.4272	2.8	to order	mendi
 2019-03-31	4	16.32	1.7	to smell	flari
-2019-02-24	4	45.36	2.8	boot	boto
+2019-08-25	5	131.544	2.9	boot	boto
 2019-03-11	4	48.72	2.9	jeans	ĝinzo
 2019-04-23	0	73.68192	1.92	stocking	ŝtrumpo
 2019-04-03	5	21.6	1.6	to wear	surhavi
-2019-04-09	5	69.123456	2.36	underwear	kalsono
-2019-03-21	4	34.8336	2.46	bathroom	necesejo
+2019-08-25	6	170.04370176	2.46	underwear	kalsono
+2019-08-25	5	89.174016	2.56	bathroom	necesejo
 2019-03-21	4	34.8336	2.46	to be wrong	malpravi
 2019-03-11	4	48.72	2.9	to listen	aŭskulti
 2019-03-20	4	23.2704	2.02	children	gefiloj
-2019-03-11	4	48.72	2.9	couple	paro
-2019-03-11	4	48.72	2.9	nephews or nieces	genevoj
+2019-08-25	5	146.16	3.0	couple	paro
+2019-08-25	0	125.6976	2.58	nephews or nieces	genevoj
 2019-04-02	4	25.6944	2.12	free/gratis	senpaga
 2019-03-21	4	34.8336	2.46	leaf	folio
-2019-04-10	5	42.352128	2.02	piece	peco
+2019-08-25	6	89.78651136	2.12	piece	peco
 2019-03-29	4	14.4	1.6	sleeve	maniko
 2019-03-21	4	34.8336	2.46	spoon	kulero
-2019-03-20	4	30.6456	2.26	box	ĉesto
+2019-08-25	5	72.323616	2.36	box	ĉesto
 2019-03-20	4	32.0016	2.36	glasses	okulvitroj
 2019-03-24	4	48.72	2.9	pan	pato
 2019-04-01	4	23.2704	2.02	floor	planko
 2019-03-20	4	32.0016	2.36	roof	tegmento
-2019-04-09	4	48.72	2.9	to jump	salti
+2019-08-25	5	146.16	3.0	to jump	salti
 2019-04-09	4	47.04	2.8	behind	malantaŭ
 2019-04-09	4	45.36	2.8	rainbow	ĉielarko
 2019-04-09	4	47.04	2.8	to thirst	soifi
-2019-04-09	4	15.36	1.6	to hide	kaŝi
-2019-04-09	4	25.6944	2.12	to teach	instrui
+2019-08-25	5	24.576	1.6	to hide	kaŝi
+2019-08-25	5	57.041568	2.22	to teach	instrui
 2019-03-27	3	16.2	2.7	to fall	fali
 2019-04-09	4	17.7504	1.72	line	vico
 2019-03-27	3	16.2	2.7	grandchild	genepo
-2019-04-09	3	16.8	2.8	apple	pomo
+2019-08-25	4	48.72	2.9	apple	pomo
 2019-04-10	2	6.0	2.46	later	poste
 2019-04-10	2	6.0	2.06	to wait	atendi
+2019-08-21	0	1.0	2.5	as far as	fare
+2019-08-21	0	1.0	2.5	date	dato
