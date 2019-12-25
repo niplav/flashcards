@@ -1,17 +1,17 @@
 2019-10-21	6	253.28443392	2.52	aktuelan	momentan
 2019-11-30	8	80.19648	1.8	ali	aber
-2019-10-21	0	7.8	1.3	baviti	beschäftigen
-2019-10-21	0	250.34268672	2.22	belaj	Problem
+2019-12-25	1	1	1.4	baviti	beschäftigen
+2019-12-25	1	1	2.32	belaj	Problem
 2019-11-30	6	453.096	3.1	da	ja
-2019-11-30	0	57.2832	1.3	dakle	also/daher
+2019-12-25	1	1	1.3	dakle	also/daher
 2019-10-21	6	313.70976	2.66	dan	Tag
 2019-10-21	6	394.632	3.0	dobar	gut
-2019-11-30	0	7.8	1.3	doći	kommen
-2019-10-21	0	26.325	1.3	drugačiji	anders
-2019-10-21	6	44.064	1.8	dugo	lang
+2019-12-25	1	1	1.3	doći	kommen
+2019-12-25	1	1	1.3	drugačiji	anders
+2019-12-25	1	1	1.3	dugo	lang
 2019-10-21	0	68.73984	1.3	duže	länger
 2019-11-30	5	37.31904	1.86	ekonomičnost	Wirtschaftlichkeit
-2019-11-30	4	10.14	1.3	gledati	anschauen
+2019-12-25	1	1	1.3	gledati	anschauen
 2019-12-15	0	12.324	1.3	govoriti	sprechen
 2019-11-30	0	7.8	1.3	htjeti	wollen
 2019-10-21	6	438.48	3.0	hvala	danke
@@ -33,7 +33,7 @@
 2019-11-30	8	94.0032	1.7	kraće	kürzer
 2019-10-21	0	31.9488	1.3	kutija	Schachtel
 2019-11-30	0	310.44384	2.36	loš	schlecht
-2019-04-23	4	13.5	1.5	malo	ein bisschen/wenig
+2019-12-25	1	1	1.3	malo	ein bisschen/wenig
 2019-10-21	0	24.57	1.3	misliti	denken
 2019-11-30	0	220.17662208	2.14	molim	bitte
 2019-10-21	0	48.9421296	1.3	morati	müssen
@@ -42,34 +42,34 @@
 2019-10-21	0	10.14	1.3	nedjelja	Sonntag
 2019-10-21	0	7.8	1.3	nego	als
 2019-10-21	6	453.096	3.1	njemačka	Deutschland
-2019-10-21	8	62.37504	1.7	oba	beide
+2019-12-25	9	112.275072	1.8	oba	beide
 2019-04-24	0	1.69	1.3	objasniti	erklären
 2019-10-21	6	145.50945408	2.14	odlazi	weggehen
 2019-12-15	6	39.168	1.7	onda	dann
 2019-10-21	6	453.096	3.1	operativni sistem	Betriebssystem
-2019-04-24	5	23.04	1.6	opet	schon wieder
+2019-12-25	1	1	1.3	opet	schon wieder
 2019-10-21	0	98.10844416	1.58	oprostiti	verzeihen
 2019-10-21	0	7.8	1.3	ovdje	hier
 2019-10-21	0	10.92	1.3	ovo	dass
 2019-10-21	0	86.56128	1.3	petak	Freitag
 2019-10-21	0	10.14	1.3	pisati	schreiben
 2019-10-21	0	62.37504	1.3	ponedeljak	Montag
-2019-10-21	7	54.8352	1.7	ponoviti	wiederholen
+2019-12-25	8	98.70336	1.8	ponoviti	wiederholen
 2019-10-21	0	10.92	1.3	porodica	Familie
-2019-04-09	4	16.32	1.7	pravac	Richtung
-2019-04-23	6	19.8744	1.4	predavanje	Vorlesung
-2019-04-24	2	6.0	1.3	prekasno	zu spät
-2019-04-23	4	13.5	1.5	premalo	zu wenig
+2019-12-25	1	1	1.4	pravac	Richtung
+2019-12-25	1	1	1.4	predavanje	Vorlesung
+2019-12-25	1	1	1.3	prekasno	zu spät
+2019-12-25	1	1	1.3	premalo	zu wenig
 2019-10-21	0	70.866432	1.3	prskočiti	auslassen
-2019-10-21	3	7.8	1.3	prvo	zuerst
+2019-12-25	1	1	1.3	prvo	zuerst
 2019-10-21	6	237.95859456	2.56	puno	viel
 2019-10-21	0	11.7	1.3	pustiti	herauslassen
-2019-03-20	5	141.288	2.9	raditi	arbeiten
+2019-12-25	6	423.864	3.0	raditi	arbeiten
 2019-12-04	0	7.8	1.3	raniji	vorher
 2019-10-21	6	453.096	3.1	razbojništvo	Raub
-2019-10-21	2	6.0	1.3	razgovarati	sprechen mit
-2019-04-24	1	1.0	1.72	reći	sagen
-2019-10-21	6	21.4032	1.4	riječ	Wort
+2019-12-25	1	1	1.3	razgovarati	sprechen mit
+2019-12-25	1	1	1.3	reći	sagen
+2019-12-25	1	1	1.3	riječ	Wort
 2019-12-15	7	100.46592	1.9	rsijeda	Mittwoch
 2019-04-24	0	1.69	1.3	sa	mit
 2019-04-24	0	1.69	1.3	sada	jetzt
@@ -84,18 +84,18 @@
 2019-12-04	0	19.968	1.3	stvar	Ding
 2019-10-21	0	17.55	1.3	subota	Samstag
 2019-10-21	0	7.8	1.3	sutra	morgen
-2019-04-23	5	20.25	1.5	također	auch
+2019-12-25	1	1	1.3	također	auch
 2019-10-21	0	7.8	1.3	težak	schwierig
 2019-07-11	0	163.51536768	1.94	u	in
 2019-10-21	6	453.096	3.1	ulica	Straße
-2019-03-21	5	141.288	2.9	umjetnost	Kunst
-2019-03-21	5	141.288	2.9	uraditi	machen
+2019-12-25	1	1	2.46	umjetnost	Kunst
+2019-12-25	1	1	2.68	uraditi	machen
 2019-10-21	0	10.92	1.3	utorak	Dienstag
 2019-11-27	0	44.7174	1.3	uzeti	nehmen
 2019-10-21	0	57.91968	1.3	uzrok	Grund
 2019-10-21	7	100.46592	1.9	vječba	Übung
-2019-04-23	5	18.585216	1.56	vjerovati	glauben
-2019-03-21	5	117.936	2.8	voda	Wasser
+2019-12-25	1	1	1.3	vjerovati	glauben
+2019-12-25	6	342.0144	2.9	voda	Wasser
 2019-03-29	7	51.2406922752	1.72	vozač	Fahrer
 2019-10-21	6	36.72	1.7	vrlo	sehr
 2019-10-21	7	30.78918144	1.36	za	für/nach
