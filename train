@@ -1,6 +1,6 @@
 #!/usr/bin/env rc
 
-new=5
+new=1
 rev=40
 
 for(i in (tao_te_king.crd))
