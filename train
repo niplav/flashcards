@@ -1,7 +1,7 @@
 #!/usr/bin/env rc
 
 new=4
-rev=40
+rev=16
 
-for(i in (tao_te_king.crd))
+for(i in (tao_te_king.crd berglied.crd))
 	fulg run -f ./nl_filter -r -R $rev -N $new $i
