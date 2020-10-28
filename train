@@ -3,5 +3,5 @@
 new=4
 rev=16
 
-for(i in (tao_te_king.crd berglied.crd))
+for(i in (berglied.crd tao_te_king.crd))
 	fulg run -f ./nl_filter -r -R $rev -N $new $i
