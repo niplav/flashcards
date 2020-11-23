@@ -1,4 +1,5 @@
 #!/usr/bin/env rc
 
-fulg run -f ./nl_filter -r -R 16 -N 8 berglied.crd
-fulg run -f ./nl_filter -r -R 16 -N 2 tao_te_king.crd
+fulg run -f ./nl_filter -r -R 10 -N 4 berglied.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 hyperions_schicksalslied.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 tao_te_king.crd
