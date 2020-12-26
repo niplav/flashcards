@@ -4,3 +4,4 @@ fulg run -f ./nl_filter -r -R 10 -N 2 pity_this_busy_monster.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 berglied.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 hyperions_schicksalslied.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 tao_te_king.crd
+fulg run -f ./nl_filter -r -R 4 -N 1 l_ennemi.crd
