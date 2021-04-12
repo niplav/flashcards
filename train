@@ -31,3 +31,14 @@ fulg run -f ./nl_filter -r -R 10 -N 4 bella_ciao.crd
 
 fulg run -f ./nl_filter -r -R 10 -N 8 bones_in_the_ocean.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 ballad_of_peter_singer.crd
+
+# Vocabulary
+
+fulg run -f ./nl_filter -r -R 10 -N 2 de_en.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 en_de.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 en_eo.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 eo_en.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 en_fr.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 fr_en.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 lat_en.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 en_lat.crd
