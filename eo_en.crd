@@ -1,17 +1,17 @@
-2019-12-02	6	381.4776	2.9	afero	matter
-2019-12-02	6	394.632	3.0	agi	to act
-2019-12-02	6	311.23685376	2.76	grava	important
-2019-12-02	6	409.248	3.0	malfermi	to open
-2019-07-08	6	193.66088256	2.46	montri	to show
-2019-12-02	8	142.32672	1.9	pardoni	to forgive
-2019-07-24	6	322.51355136	2.86	respondi	to respond
-2019-12-02	6	370.77958656	2.88	tiel	as/so
-2019-12-02	6	453.096	3.1	tiel * kiel *	as * as *
-2019-12-02	6	453.096	3.1	ĉi tiu	this
+2021-04-15	7	1144.4328	3.0	afero	matter
+2021-04-15	7	1223.3592	3.1	agi	to act
+2021-04-15	7	890.137401754	2.86	grava	important
+2021-04-15	7	1268.6688	3.1	malfermi	to open
+2021-04-15	7	495.771859354	2.56	montri	to show
+2021-04-15	9	284.65344	2.0	pardoni	to forgive
+2021-04-15	7	954.640112026	2.96	respondi	to respond
+2021-04-15	7	1067.84520929	2.88	tiel	as/so
+2021-04-15	7	1449.9072	3.2	tiel * kiel *	as * as *
+2021-04-15	7	1449.9072	3.2	ĉi tiu	this
 2019-12-02	6	332.15671296	2.88	farti	to be doing/to do (as in "How are you doing?")
 2019-12-02	6	363.06144	2.76	gratulon	congratulations
 2019-11-27	6	409.7352	2.9	ambaŭ	both
-2019-12-25	1	1	1.3	laca	tired
+2019-12-25	1	1.0	1.3	laca	tired
 2019-12-02	6	453.096	3.1	letero	letter
 2019-07-08	6	277.40676096	2.76	ĵurnalo	newspaper
 2019-12-02	6	438.48	3.0	frazo	sentence
@@ -25,24 +25,24 @@
 2019-07-08	6	185.78848896	2.46	provi	to try
 2019-12-02	6	394.632	3.0	tagmanĝo	lunch
 2019-12-25	6	453.096	3.1	vendi	to sell
-2019-12-25	1	1	1.3	denove	again
+2019-12-25	1	1.0	1.3	denove	again
 2019-12-25	3	12.48	2.08	cimo	bug (programming)
-2019-12-25	2	6	2.0	koko	chicken
+2019-12-25	2	6.0	2.0	koko	chicken
 2019-12-25	6	423.864	3.0	muŝo	fly
 2019-12-25	6	277.40676096	2.76	porko	pig
 2019-12-25	6	342.0144	2.9	vosto	tail
-2019-12-25	2	6	1.5	flari	to smell
-2019-12-25	1	1	1.3	mendi	to order
+2019-12-25	2	6.0	1.5	flari	to smell
+2019-12-25	1	1.0	1.3	mendi	to order
 2019-12-25	6	409.7352	2.9	salo	salt
 2019-12-25	6	409.7352	2.9	tiom	that much
-2019-12-25	2	6	2.12	boto	boot
-2019-12-25	1	1	1.4	kalsono	underwear
+2019-12-25	2	6.0	2.12	boto	boot
+2019-12-25	1	1.0	1.4	kalsono	underwear
 2019-12-25	6	423.864	3.0	surhavi	to wear
 2019-12-25	6	438.48	3.0	ĝinzo	jeans
 2019-12-25	6	172.20542976	2.34	ŝtrumpo	stocking
 2019-12-25	6	394.632	3.0	aŭskulti	to listen
-2019-12-25	1	1	1.4	malpravi	to be wrong
-2019-12-25	1	1	2.04	necesejo	bathroom
+2019-12-25	1	1.0	1.4	malpravi	to be wrong
+2019-12-25	1	1.0	2.04	necesejo	bathroom
 2019-07-08	6	132.33643776	2.32	gefiloj	children
 2019-04-23	5	93.672576	2.44	genevoj	nephews or nieces
 2019-07-08	5	134.4672	2.76	paro	couple
@@ -67,11 +67,11 @@
 2019-07-08	1	1.0	1.3	genepo	grandchild
 2019-07-08	5	136.416	2.9	pomo	apple
 2019-07-08	4	42.12	2.7	atendi	to wait
-2019-12-25	1	1	1.4	poste	later
-2019-12-25	1	1	2.6	dato	date
-2019-12-25	1	1	2.04	fare	as far as
-2019-12-25	1	1	1.96	angulo	corner
-2019-12-25	1	1	1.96	klopodi	to try out
-2019-09-05	0	1.0	2.5	rigardu!	look!
-2019-09-05	0	1.0	2.5	skatolo	box
+2019-12-25	1	1.0	1.4	poste	later
+2019-12-25	1	1.0	2.6	dato	date
+2019-12-25	1	1.0	2.04	fare	as far as
+2019-12-25	1	1.0	1.96	angulo	corner
+2019-12-25	1	1.0	1.96	klopodi	to try out
+2021-04-15	1	1	2.6	rigardu!	look!
+2021-04-15	1	1	1.96	skatolo	box
 2019-09-05	0	1.0	2.5	surda	deaf
