@@ -11,21 +11,21 @@
 2021-04-16	7	487.710528307	2.42	cool (temperature)	frais
 2021-04-16	7	1223.3592	3.1	to freeze	gèler
 2021-04-16	7	1449.9072	3.2	fish (m)	poisson
-2021-04-17	2	6	2.42	bean (m)	haricot
-2021-04-17	1	1	1.4	belt (f)	ceinture
+2021-04-17	2	6.0	2.42	bean (m)	haricot
+2021-04-18	2	6	1.5	belt (f)	ceinture
 2021-04-17	3	9.6	1.6	cap (f)	casquette
-2021-04-17	1	1	1.4	glove (m)	gant
+2021-04-18	2	6	1.5	glove (m)	gant
 2021-04-17	7	1107.69792	2.9	sock (f)	chausette
-2021-04-17	2	6	1.5	wallet (m)	portefeuille
-2021-04-17	1	1	1.4	dark	foncé
-2021-04-17	1	1	2.46	dark	sombre
+2021-04-17	2	6.0	1.5	wallet (m)	portefeuille
+2021-04-18	2	6	1.4	dark	foncé
+2021-04-18	2	6	2.56	dark	sombre
 2021-04-17	4	44.0496	2.76	lovely	joli
-2021-04-17	1	1	1.78	candy (m)	bonbon
-2019-12-25	2	6.0	2.56	duck (m)	canard
-2019-12-25	7	199.326055219	2.22	fog (m)	brouillard
-2019-09-09	5	146.16	3.0	goldfish (m)	poisson rouge
-2019-12-25	1	1.0	1.4	yellow	jaune
-2019-09-09	5	131.544	2.9	vicious	méchant
+2021-04-18	2	6	1.88	candy (m)	bonbon
+2021-04-18	3	15.96	2.66	duck (m)	canard
+2021-04-18	1	1	1.68	fog (m)	brouillard
+2021-04-18	6	438.48	3.0	goldfish (m)	poisson rouge
+2021-04-18	1	1	1.3	yellow	jaune
+2021-04-18	1	1	2.68	vicious	méchant
 2019-12-25	2	6.0	1.4	to hope	souhaiter
 2019-09-09	5	136.416	2.9	kid (m)	gamin
 2019-09-09	5	136.416	2.9	light	légèr
