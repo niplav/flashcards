@@ -30,9 +30,9 @@
 2021-04-18	3	12.6	2.1	koko	chicken
 2021-04-18	7	1313.9784	3.1	muŝo	fly
 2021-04-18	7	793.383336346	2.86	porko	pig
-2021-04-20	2	6	2.46	vosto	tail
-2021-04-20	2	6	1.4	flari	to smell
-2021-04-20	1	1	1.3	mendi	to order
+2021-04-20	2	6.0	2.46	vosto	tail
+2021-04-20	2	6.0	1.4	flari	to smell
+2021-04-21	2	6	1.3	mendi	to order
 2021-04-18	7	1229.2056	3.0	salo	salt
 2021-04-18	7	1229.2056	3.0	tiom	that much
 2021-04-18	3	13.32	2.22	boto	boot
@@ -41,18 +41,18 @@
 2021-04-18	7	1359.288	3.1	ĝinzo	jeans
 2021-04-18	7	420.181248614	2.44	ŝtrumpo	stocking
 2021-04-18	7	1223.3592	3.1	aŭskulti	to listen
-2021-04-20	1	1	1.3	malpravi	to be wrong
+2021-04-21	2	6	1.4	malpravi	to be wrong
 2021-04-18	2	6.0	2.04	necesejo	bathroom
-2021-04-20	1	1	1.64	gefiloj	children
+2021-04-21	1	1	1.4	gefiloj	children
 2021-04-20	6	237.92834304	2.54	genevoj	nephews or nieces
-2021-04-20	1	1	2.22	paro	couple
+2021-04-21	2	6	2.32	paro	couple
 2021-04-20	6	453.096	3.1	folio	leaf
-2021-04-20	1	1	2.58	kulero	spoon
-2021-04-20	1	1	2.22	maniko	sleeve
-2019-07-08	1	1.0	1.4	pato	pan
-2019-07-08	5	118.87008	2.66	peco	piece
-2019-07-08	5	146.16	3.0	senpaga	free/gratis
-2019-07-08	5	146.16	3.0	okulvitroj	glasses
+2021-04-21	2	6	2.58	kulero	spoon
+2021-04-21	2	6	2.32	maniko	sleeve
+2021-04-21	1	1	1.4	pato	pan
+2021-04-21	6	328.0814208	2.76	peco	piece
+2021-04-21	6	453.096	3.1	senpaga	free/gratis
+2021-04-21	6	453.096	3.1	okulvitroj	glasses
 2019-12-02	1	1.0	1.4	ĉesto	box
 2019-07-24	2	6.0	2.56	planko	floor
 2019-07-08	5	57.041568	2.22	salti	to jump
