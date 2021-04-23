@@ -1,17 +1,17 @@
 2021-04-15	5	47.88	2.1	as * as *	tiel * kiel *
 2021-04-15	4	16.32	1.7	as/so	tiel
 2021-04-15	7	1026.0432	3.0	important	grava
-2021-04-16	2	6.0	1.5	matter	afero
-2021-04-16	2	6.0	1.76	this	ĉi tiu
-2021-04-16	2	6.0	2.98	to act	agi
-2021-04-16	2	6.0	1.5	to forgive	pardoni
+2021-04-24	3	9.0	1.5	matter	afero
+2021-04-24	3	11.16	1.86	this	ĉi tiu
+2021-04-24	3	18.48	3.08	to act	agi
+2021-04-24	3	9.0	1.5	to forgive	pardoni
 2021-04-15	7	1449.9072	3.2	to open	malfermi
 2021-04-15	7	1449.9072	3.2	to respond	respondi
-2021-04-16	2	6.0	2.54	to show	montri
+2021-04-24	3	15.84	2.64	to show	montri
 2021-04-16	7	797.24736	2.8	congratulations	gratulon
-2021-04-17	2	6.0	2.98	to be doing/to do (as in "How are you doing?")	farti
-2021-04-17	2	6.0	2.0	both	ambaŭ
-2021-04-17	2	6.0	1.58	tired	laca
+2021-04-24	3	18.48	3.08	to be doing/to do (as in "How are you doing?")	farti
+2021-04-24	3	12.6	2.1	both	ambaŭ
+2021-04-24	3	10.08	1.68	tired	laca
 2021-04-16	7	1449.9072	3.2	letter	letero
 2021-04-17	7	1313.9784	3.1	newspaper	ĵurnalo
 2021-04-17	3	10.68	1.78	a bit	iomete
@@ -27,7 +27,7 @@
 2021-04-20	2	6.0	2.42	to try	provi
 2021-04-20	2	6.0	1.4	again	denove
 2021-04-20	2	6.0	2.12	bug (programming)	cimo
-2021-04-21	1	1	2.04	chicken	koko
+2021-04-24	2	6	2.14	chicken	koko
 2021-04-20	2	6.0	2.56	fly	muŝo
 2021-04-20	2	6.0	1.46	pig	porko
 2021-04-18	3	11.28	1.88	tail	vosto
@@ -46,9 +46,9 @@
 2021-04-21	6	109.51981056	2.22	children	gefiloj
 2021-04-21	6	453.096	3.1	couple	paro
 2021-04-21	3	14.04	2.34	nephews or nieces	genevoj
-2021-04-21	1	1	1.4	free/gratis	senpaga
-2021-04-21	1	1	1.58	leaf	folio
-2021-04-21	1	1	1.78	piece	peco
+2021-04-24	2	6	1.4	free/gratis	senpaga
+2021-04-21	1	1.0	1.58	leaf	folio
+2021-04-21	1	1.0	1.78	piece	peco
 2019-12-04	1	1.0	1.4	sleeve	maniko
 2019-12-04	1	1.0	2.02	spoon	kulero
 2019-12-04	1	1.0	1.92	box	ĉesto

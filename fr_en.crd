@@ -3,41 +3,41 @@
 2021-04-15	7	1449.9072	3.2	araignée	spider (f)
 2021-04-15	6	288.68345856	2.76	cochon	pig (m)
 2021-04-15	7	803.622577766	2.72	fourmi	ant (f)
-2021-04-16	2	6.0	2.22	mouche	fly (f)
+2021-04-24	3	13.32	2.22	mouche	fly (f)
 2021-04-15	7	1449.9072	3.2	oignon	onion (m)
 2021-04-15	6	286.02383616	2.78	papillon	butterfly (m)
 2021-04-15	6	286.820352	2.66	poule	hen (f)
 2021-04-15	6	453.096	3.1	requin	shark (m)
-2021-04-16	2	6.0	1.4	frais	cool (temperature)
-2021-04-16	2	6.0	2.46	gèler	to freeze
+2021-04-24	3	8.4	1.4	frais	cool (temperature)
+2021-04-24	3	15.36	2.56	gèler	to freeze
 2021-04-16	7	1229.2056	3.0	poisson	fish (m)
 2021-04-16	5	74.783808	2.42	haricot	bean (m)
-2021-04-17	2	6.0	2.22	casquette	cap (f)
-2021-04-17	2	6.0	1.64	ceinture	belt (f)
-2021-04-18	2	6.0	1.3	chausette	sock (f)
-2021-04-17	2	6.0	2.36	gant	glove (m)
+2021-04-24	3	13.92	2.32	casquette	cap (f)
+2021-04-24	3	10.44	1.74	ceinture	belt (f)
+2021-04-24	3	7.8	1.3	chausette	sock (f)
+2021-04-24	3	13.32	2.22	gant	glove (m)
 2021-04-16	7	706.766531789	2.62	portefeuille	wallet (m)
-2021-04-17	2	6.0	2.66	foncé	dark
-2021-04-18	2	6.0	1.82	joli	lovely
-2021-04-18	2	6.0	2.12	sombre	dark
+2021-04-24	3	16.56	2.76	foncé	dark
+2021-04-24	3	11.52	1.92	joli	lovely
+2021-04-24	3	13.32	2.22	sombre	dark
 2021-04-20	2	6.0	2.46	bonbon	candy (m)
 2021-04-20	2	6.0	2.02	brouillard	fog (m)
 2021-04-20	2	6.0	2.56	canard	duck (m)
 2021-04-16	6	453.096	3.1	poisson rouge	goldfish (m)
 2021-04-17	6	453.096	3.1	jaune	yellow
 2021-04-17	5	102.961152	2.52	méchant	vicious
-2021-04-21	1	1	1.3	souhaiter	to hope
+2021-04-21	1	1.0	1.3	souhaiter	to hope
 2021-04-17	6	438.48	3.0	courir	to run
 2021-04-17	6	438.48	3.0	cusinier	to cook
 2021-04-20	2	6.0	1.4	demi-frère	stepbrother (m)
-2021-04-21	2	6	2.14	gamin	kid (m)
-2021-04-21	2	6	1.58	légèr	light
-2021-04-21	1	1	1.4	union	group/union (f)
+2021-04-21	2	6.0	2.14	gamin	kid (m)
+2021-04-21	2	6.0	1.58	légèr	light
+2021-04-21	1	1.0	1.4	union	group/union (f)
 2021-04-20	2	6.0	1.4	gendre	son-in-law (m)
 2021-04-18	5	146.16	3.0	tenir	to hold
 2021-04-18	6	345.348864	2.76	journal	newspaper/diary (m)
-2021-04-21	1	1	2.58	des nos jours	nowadays
-2019-08-17	0	1.3	1.3	douce	mild
-2019-08-21	0	1.0	2.5	appartement	apartment (m)
+2021-04-21	1	1.0	2.58	des nos jours	nowadays
+2021-04-24	1	1	1.3	douce	mild
+2021-04-24	1	1	2.6	appartement	apartment (m)
 2019-08-21	0	1.0	2.5	avion	flugzeug (m)
 2019-09-05	0	1.0	2.5	chateau	castle (m)
