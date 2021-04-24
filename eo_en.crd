@@ -15,7 +15,7 @@
 2021-04-16	7	1449.9072	3.2	letero	letter
 2021-04-16	7	793.383336346	2.86	ĵurnalo	newspaper
 2021-04-24	3	15.96	2.66	frazo	sentence
-2021-04-24	1	1	1.88	iomete	a bit
+2021-04-24	1	1.0	1.88	iomete	a bit
 2021-04-24	3	18.48	3.08	la hispana	spanish
 2021-04-16	8	770.50724954	2.3	hela	light
 2021-04-17	7	1104.9696	3.0	malhela	dark
@@ -25,7 +25,7 @@
 2021-04-24	3	13.32	2.22	provi	to try
 2021-04-17	7	1223.3592	3.1	tagmanĝo	lunch
 2021-04-17	7	1449.9072	3.2	vendi	to sell
-2021-04-24	1	1	1.3	denove	again
+2021-04-24	1	1.0	1.3	denove	again
 2021-04-18	4	27.2064	2.18	cimo	bug (programming)
 2021-04-18	3	12.6	2.1	koko	chicken
 2021-04-18	7	1313.9784	3.1	muŝo	fly
@@ -43,25 +43,25 @@
 2021-04-18	7	1223.3592	3.1	aŭskulti	to listen
 2021-04-21	2	6.0	1.4	malpravi	to be wrong
 2021-04-24	3	12.84	2.14	necesejo	bathroom
-2021-04-24	2	6	1.4	gefiloj	children
+2021-04-24	2	6.0	1.4	gefiloj	children
 2021-04-20	6	237.92834304	2.54	genevoj	nephews or nieces
 2021-04-21	2	6.0	2.32	paro	couple
 2021-04-20	6	453.096	3.1	folio	leaf
 2021-04-21	2	6.0	2.58	kulero	spoon
 2021-04-21	2	6.0	2.32	maniko	sleeve
-2021-04-21	1	1.0	1.4	pato	pan
+2021-04-24	2	6	1.4	pato	pan
 2021-04-21	6	328.0814208	2.76	peco	piece
 2021-04-21	6	453.096	3.1	senpaga	free/gratis
 2021-04-21	6	453.096	3.1	okulvitroj	glasses
-2019-12-02	1	1.0	1.4	ĉesto	box
-2019-07-24	2	6.0	2.56	planko	floor
-2019-07-08	5	57.041568	2.22	salti	to jump
-2019-07-08	4	31.4496	2.34	tegmento	roof
-2019-07-08	1	1.0	2.46	malantaŭ	behind
-2019-07-08	5	146.16	3.0	ĉielarko	rainbow
-2019-07-08	5	98.24256	2.56	soifi	to thirst
-2019-07-08	5	136.416	2.9	kaŝi	to hide
-2019-07-08	5	146.16	3.0	instrui	to teach
+2021-04-24	2	6	1.5	ĉesto	box
+2021-04-24	3	15.96	2.66	planko	floor
+2021-04-24	6	132.33643776	2.32	salti	to jump
+2021-04-24	5	76.737024	2.44	tegmento	roof
+2021-04-24	2	6	2.56	malantaŭ	behind
+2021-04-24	6	453.096	3.1	ĉielarko	rainbow
+2021-04-24	1	1	2.12	soifi	to thirst
+2021-04-24	6	395.6064	2.9	kaŝi	to hide
+2021-04-24	6	453.096	3.1	instrui	to teach
 2019-07-08	5	146.16	3.0	fali	to fall
 2019-07-24	2	6.0	2.46	vico	line
 2019-07-08	1	1.0	1.3	genepo	grandchild

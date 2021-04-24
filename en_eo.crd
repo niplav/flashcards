@@ -27,7 +27,7 @@
 2021-04-20	2	6.0	2.42	to try	provi
 2021-04-20	2	6.0	1.4	again	denove
 2021-04-20	2	6.0	2.12	bug (programming)	cimo
-2021-04-24	2	6	2.14	chicken	koko
+2021-04-24	2	6.0	2.14	chicken	koko
 2021-04-20	2	6.0	2.56	fly	muŝo
 2021-04-20	2	6.0	1.46	pig	porko
 2021-04-18	3	11.28	1.88	tail	vosto
@@ -46,17 +46,17 @@
 2021-04-21	6	109.51981056	2.22	children	gefiloj
 2021-04-21	6	453.096	3.1	couple	paro
 2021-04-21	3	14.04	2.34	nephews or nieces	genevoj
-2021-04-24	2	6	1.4	free/gratis	senpaga
-2021-04-21	1	1.0	1.58	leaf	folio
-2021-04-21	1	1.0	1.78	piece	peco
-2019-12-04	1	1.0	1.4	sleeve	maniko
-2019-12-04	1	1.0	2.02	spoon	kulero
-2019-12-04	1	1.0	1.92	box	ĉesto
-2019-12-04	1	1.0	1.92	glasses	okulvitroj
-2019-12-04	5	134.4672	2.76	pan	pato
-2019-11-27	5	49.333248	2.12	floor	planko
-2019-11-27	5	78.723936	2.46	roof	tegmento
-2019-08-25	5	146.16	3.0	to jump	salti
+2021-04-24	2	6.0	1.4	free/gratis	senpaga
+2021-04-24	2	6	1.68	leaf	folio
+2021-04-24	2	6	1.88	piece	peco
+2021-04-24	2	6	1.5	sleeve	maniko
+2021-04-24	2	6	2.12	spoon	kulero
+2021-04-24	1	1	1.38	box	ĉesto
+2021-04-24	1	1	1.38	glasses	okulvitroj
+2021-04-24	6	371.129472	2.76	pan	pato
+2021-04-24	1	1	1.58	floor	planko
+2021-04-24	6	201.53327616	2.56	roof	tegmento
+2021-04-24	1	1	1.92	to jump	salti
 2019-12-04	5	136.416	2.9	behind	malantaŭ
 2019-12-04	1	1.0	2.36	rainbow	ĉielarko
 2019-12-04	5	136.416	2.9	to thirst	soifi
