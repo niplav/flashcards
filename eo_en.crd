@@ -15,7 +15,7 @@
 2021-04-16	7	1449.9072	3.2	letero	letter
 2021-04-16	7	793.383336346	2.86	ĵurnalo	newspaper
 2021-04-24	3	15.96	2.66	frazo	sentence
-2021-04-25	2	6	1.98	iomete	a bit
+2021-04-25	2	6.0	1.98	iomete	a bit
 2021-04-24	3	18.48	3.08	la hispana	spanish
 2021-04-16	8	770.50724954	2.3	hela	light
 2021-04-17	7	1104.9696	3.0	malhela	dark
@@ -25,14 +25,14 @@
 2021-04-24	3	13.32	2.22	provi	to try
 2021-04-17	7	1223.3592	3.1	tagmanĝo	lunch
 2021-04-17	7	1449.9072	3.2	vendi	to sell
-2021-04-25	1	1	1.3	denove	again
+2021-04-27	2	6	1.4	denove	again
 2021-04-18	4	27.2064	2.18	cimo	bug (programming)
 2021-04-18	3	12.6	2.1	koko	chicken
 2021-04-18	7	1313.9784	3.1	muŝo	fly
 2021-04-18	7	793.383336346	2.86	porko	pig
-2021-04-20	2	6.0	2.46	vosto	tail
-2021-04-20	2	6.0	1.4	flari	to smell
-2021-04-21	2	6.0	1.3	mendi	to order
+2021-04-27	3	15.36	2.56	vosto	tail
+2021-04-27	3	9.0	1.5	flari	to smell
+2021-04-27	3	8.4	1.4	mendi	to order
 2021-04-18	7	1229.2056	3.0	salo	salt
 2021-04-18	7	1229.2056	3.0	tiom	that much
 2021-04-18	3	13.32	2.22	boto	boot
@@ -41,14 +41,14 @@
 2021-04-18	7	1359.288	3.1	ĝinzo	jeans
 2021-04-18	7	420.181248614	2.44	ŝtrumpo	stocking
 2021-04-18	7	1223.3592	3.1	aŭskulti	to listen
-2021-04-21	2	6.0	1.4	malpravi	to be wrong
+2021-04-27	3	8.4	1.4	malpravi	to be wrong
 2021-04-24	3	12.84	2.14	necesejo	bathroom
 2021-04-24	2	6.0	1.4	gefiloj	children
 2021-04-20	6	237.92834304	2.54	genevoj	nephews or nieces
-2021-04-21	2	6.0	2.32	paro	couple
+2021-04-27	3	13.08	2.18	paro	couple
 2021-04-20	6	453.096	3.1	folio	leaf
-2021-04-21	2	6.0	2.58	kulero	spoon
-2021-04-21	2	6.0	2.32	maniko	sleeve
+2021-04-27	3	16.08	2.68	kulero	spoon
+2021-04-27	3	14.52	2.42	maniko	sleeve
 2021-04-24	2	6.0	1.4	pato	pan
 2021-04-21	6	328.0814208	2.76	peco	piece
 2021-04-21	6	453.096	3.1	senpaga	free/gratis
@@ -59,16 +59,16 @@
 2021-04-24	5	76.737024	2.44	tegmento	roof
 2021-04-24	2	6.0	2.56	malantaŭ	behind
 2021-04-24	6	453.096	3.1	ĉielarko	rainbow
-2021-04-25	2	6	2.22	soifi	to thirst
+2021-04-25	2	6.0	2.22	soifi	to thirst
 2021-04-24	6	395.6064	2.9	kaŝi	to hide
 2021-04-24	6	453.096	3.1	instrui	to teach
 2021-04-25	6	453.096	3.1	fali	to fall
-2021-04-25	1	1	2.02	vico	line
-2021-04-25	1	1	1.4	genepo	grandchild
+2021-04-27	2	6	2.12	vico	line
+2021-04-27	1	1	1.3	genepo	grandchild
 2021-04-25	6	409.248	3.0	pomo	apple
-2021-04-25	1	1	2.26	atendi	to wait
-2021-04-25	2	6	1.3	poste	later
-2021-04-25	2	6	2.7	dato	date
+2021-04-25	1	1.0	2.26	atendi	to wait
+2021-04-25	2	6.0	1.3	poste	later
+2021-04-25	2	6.0	2.7	dato	date
 2019-12-25	1	1.0	2.04	fare	as far as
 2019-12-25	1	1.0	1.96	angulo	corner
 2019-12-25	1	1.0	1.96	klopodi	to try out
