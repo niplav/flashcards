@@ -7,6 +7,8 @@ fulg run -f ./nl_filter -r -R 16 -N 1 tao_te_king.crd
 
 # Short poems, currently learning
 
+fulg run -f ./nl_filter -r -R 16 -N 2 an_die_freude.crd
+
 # Short poems, already learned
 
 # German
@@ -26,12 +28,12 @@ fulg run -f ./nl_filter -r -R 10 -N 2 l_ennemi.crd
 # Currently learning
 
 fulg run -f ./nl_filter -r -R 10 -N 2 hymn_to_the_breaking_strain.crd
-fulg run -f ./nl_filter -r -R 10 -N 4 bella_ciao.crd
 
 # Learned
 
-fulg run -f ./nl_filter -r -R 10 -N 8 bones_in_the_ocean.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 bones_in_the_ocean.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 ballad_of_peter_singer.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 bella_ciao.crd
 
 # Vocabulary
 
@@ -41,5 +43,3 @@ fulg run -f ./nl_filter -r -R 10 -N 2 en_eo.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 eo_en.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 en_fr.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 fr_en.crd
-fulg run -f ./nl_filter -r -R 10 -N 2 lat_en.crd
-fulg run -f ./nl_filter -r -R 10 -N 2 en_lat.crd
