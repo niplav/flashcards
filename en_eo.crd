@@ -1,7 +1,7 @@
 2021-04-15	5	47.88	2.1	as * as *	tiel * kiel *
 2021-05-03	5	29.376	1.8	as/so	tiel
 2021-04-15	7	1026.0432	3.0	important	grava
-2021-05-03	1	1	1.4	matter	afero
+2021-05-04	2	6.0	1.5	matter	afero
 2021-04-24	3	11.16	1.86	this	ĉi tiu
 2021-04-24	3	18.48	3.08	to act	agi
 2021-05-03	4	13.5	1.5	to forgive	pardoni
@@ -11,7 +11,7 @@
 2021-04-16	7	797.24736	2.8	congratulations	gratulon
 2021-04-24	3	18.48	3.08	to be doing/to do (as in "How are you doing?")	farti
 2021-04-24	3	12.6	2.1	both	ambaŭ
-2021-04-24	3	10.08	1.68	tired	laca
+2021-05-05	4	17.9424	1.78	tired	laca
 2021-04-16	7	1449.9072	3.2	letter	letero
 2021-04-17	7	1313.9784	3.1	newspaper	ĵurnalo
 2021-04-28	4	17.5152	1.64	a bit	iomete
@@ -23,7 +23,7 @@
 2021-04-18	7	890.137401754	2.86	cake	kuko
 2021-04-18	4	44.7024	2.78	lunch	tagmanĝo
 2021-04-18	7	320.254179379	2.42	strawberry	frago
-2021-04-18	3	16.08	2.68	to sell	vendi
+2021-05-05	1	1	2.22	to sell	vendi
 2021-04-27	3	14.52	2.42	to try	provi
 2021-04-27	3	8.4	1.4	again	denove
 2021-04-27	3	13.32	2.22	bug (programming)	cimo
@@ -41,7 +41,7 @@
 2021-04-27	3	9.6	1.6	to wear	surhavi
 2021-04-27	3	13.32	2.22	underwear	kalsono
 2021-04-21	7	654.679955866	2.76	bathroom	necesejo
-2021-04-21	3	12.72	2.12	to be wrong	malpravi
+2021-05-05	2	6	1.9	to be wrong	malpravi
 2021-04-21	6	453.096	3.1	to listen	aŭskulti
 2021-04-21	6	109.51981056	2.22	children	gefiloj
 2021-04-21	6	453.096	3.1	couple	paro
@@ -49,7 +49,7 @@
 2021-04-30	3	9.0	1.5	free/gratis	senpaga
 2021-04-30	3	10.68	1.78	leaf	folio
 2021-04-30	3	11.88	1.98	piece	peco
-2021-05-03	2	6	1.5	sleeve	maniko
+2021-05-03	2	6.0	1.5	sleeve	maniko
 2021-04-30	3	13.32	2.22	spoon	kulero
 2021-05-03	3	8.88	1.48	box	ĉesto
 2021-05-03	3	9.48	1.58	glasses	okulvitroj
@@ -61,17 +61,17 @@
 2021-05-03	3	15.36	2.56	rainbow	ĉielarko
 2021-04-25	6	409.248	3.0	to thirst	soifi
 2021-05-03	3	8.4	1.4	to hide	kaŝi
-2021-04-28	2	6.0	1.4	to teach	instrui
+2021-05-04	3	9.0	1.5	to teach	instrui
 2021-04-25	5	118.098	2.7	to fall	fali
-2021-04-28	2	6.0	1.3	line	vico
+2021-05-04	3	8.4	1.4	line	vico
 2021-04-28	5	122.472	2.8	grandchild	genepo
 2021-04-28	6	453.096	3.1	apple	pomo
 2021-04-30	2	6.0	1.5	later	poste
-2021-04-29	2	6.0	1.72	to wait	atendi
+2021-05-05	3	10.92	1.82	to wait	atendi
 2021-04-30	2	6.0	1.4	as far as	fare
-2021-04-28	2	6.0	2.6	date	dato
+2021-05-04	3	16.2	2.7	date	dato
 2021-04-30	2	6.0	1.5	box	skatolo
-2021-04-29	2	6.0	1.82	corner	angulo
-2021-04-29	1	1.0	1.62	deaf	surda
-2021-04-29	1	1.0	1.84	look!	rigardu!
-2021-04-29	1	1.0	1.4	to try out	klopodi
+2021-05-05	3	11.52	1.92	corner	angulo
+2021-05-05	2	6	1.5	deaf	surda
+2021-05-04	2	6.0	1.94	look!	rigardu!
+2021-05-05	2	6	1.4	to try out	klopodi
