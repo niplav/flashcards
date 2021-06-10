@@ -3,7 +3,7 @@
 2021-04-15	7	1449.9072	3.2	araignée	spider (f)
 2021-04-15	6	288.68345856	2.76	cochon	pig (m)
 2021-04-15	7	803.622577766	2.72	fourmi	ant (f)
-2021-05-11	4	29.5704	2.22	mouche	fly (f)
+2021-06-11	5	68.603328	2.32	mouche	fly (f)
 2021-04-15	7	1449.9072	3.2	oignon	onion (m)
 2021-04-15	6	286.02383616	2.78	papillon	butterfly (m)
 2021-04-15	6	286.820352	2.66	poule	hen (f)
@@ -12,14 +12,14 @@
 2021-06-03	4	33.6864	2.42	gèler	to freeze
 2021-04-16	7	1229.2056	3.0	poisson	fish (m)
 2021-04-16	5	74.783808	2.42	haricot	bean (m)
-2021-05-11	4	30.3456	2.18	casquette	cap (f)
+2021-06-11	5	66.153408	2.18	casquette	cap (f)
 2021-05-25	5	35.345664	1.84	ceinture	belt (f)
 2021-05-29	6	18.4548	1.4	chausette	sock (f)
-2021-05-11	4	30.9024	2.32	gant	glove (m)
+2021-06-11	5	74.783808	2.42	gant	glove (m)
 2021-04-16	7	706.766531789	2.62	portefeuille	wallet (m)
 2021-05-11	4	47.3616	2.86	foncé	dark
 2021-05-31	5	49.333248	2.12	joli	lovely
-2021-05-11	4	30.9024	2.32	sombre	dark
+2021-06-11	5	74.783808	2.42	sombre	dark
 2021-05-11	4	32.2944	2.32	bonbon	candy (m)
 2021-06-09	5	62.689248	2.22	brouillard	fog (m)
 2021-05-13	4	44.0496	2.76	canard	duck (m)
@@ -33,11 +33,11 @@
 2021-05-11	4	31.4496	2.34	gamin	kid (m)
 2021-05-31	5	33.731712	1.88	légèr	light
 2021-05-31	5	25.4592	1.56	union	group/union (f)
-2021-06-02	3	9.0	1.5	gendre	son-in-law (m)
+2021-06-11	1	1	1.4	gendre	son-in-law (m)
 2021-04-18	5	146.16	3.0	tenir	to hold
 2021-04-18	6	345.348864	2.76	journal	newspaper/diary (m)
 2021-05-17	4	44.7024	2.78	des nos jours	nowadays
-2021-05-24	4	16.32	1.7	douce	mild
+2021-06-11	5	29.376	1.8	douce	mild
 2021-05-20	4	48.72	2.9	appartement	apartment (m)
 2021-05-20	4	48.72	2.9	avion	airplane (m)
 2021-05-20	4	48.72	2.9	chateau	castle (m)
