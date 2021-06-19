@@ -24,7 +24,7 @@
 2021-06-02	5	128.742912	2.88	lunch	tagmanĝo
 2021-04-18	7	320.254179379	2.42	strawberry	frago
 2021-05-28	4	36.5904	2.52	to sell	vendi
-2021-05-13	4	36.5904	2.52	to try	provi
+2021-06-19	1	1	2.08	to try	provi
 2021-06-11	6	34.272	1.7	again	denove
 2021-06-11	5	74.783808	2.42	bug (programming)	cimo
 2021-06-11	5	67.302144	2.34	chicken	koko
@@ -41,7 +41,7 @@
 2021-05-24	5	29.376	1.8	to wear	surhavi
 2021-06-11	5	74.783808	2.42	underwear	kalsono
 2021-04-21	7	654.679955866	2.76	bathroom	necesejo
-2021-05-24	4	25.2	2.1	to be wrong	malpravi
+2021-06-19	5	55.44	2.2	to be wrong	malpravi
 2021-04-21	6	453.096	3.1	to listen	aŭskulti
 2021-04-21	6	109.51981056	2.22	children	gefiloj
 2021-04-21	6	453.096	3.1	couple	paro
@@ -51,7 +51,7 @@
 2021-06-09	5	53.868672	2.18	piece	peco
 2021-06-01	5	18.585216	1.56	sleeve	maniko
 2021-06-15	5	74.783808	2.42	spoon	kulero
-2021-05-28	5	20.203776	1.44	box	ĉesto
+2021-06-19	6	31.11381504	1.54	box	ĉesto
 2021-05-29	5	28.348992	1.78	glasses	okulvitroj
 2021-04-24	6	371.129472	2.76	pan	pato
 2021-06-06	5	39.755232	1.98	floor	planko
@@ -63,7 +63,7 @@
 2021-06-12	6	28.224	1.6	to hide	kaŝi
 2021-05-28	5	24.48	1.7	to teach	instrui
 2021-04-25	5	118.098	2.7	to fall	fali
-2021-06-17	1	1	1.4	line	vico
+2021-06-19	2	6	1.5	line	vico
 2021-04-28	5	122.472	2.8	grandchild	genepo
 2021-04-28	6	453.096	3.1	apple	pomo
 2021-06-03	5	29.376	1.8	later	poste
@@ -73,5 +73,5 @@
 2021-06-02	5	26.112	1.7	box	skatolo
 2021-06-11	5	49.333248	2.12	corner	angulo
 2021-06-11	5	29.376	1.8	deaf	surda
-2021-05-25	4	23.7456	2.04	look!	rigardu!
+2021-06-19	5	50.815584	2.14	look!	rigardu!
 2021-06-17	5	29.376	1.8	to try out	klopodi
