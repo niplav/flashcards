@@ -1,9 +1,9 @@
 2021-04-15	7	1268.6688	3.1	to write	écrire
 2021-04-15	8	221.929006713	2.04	ant (f)	fourmi
 2021-06-21	6	55.8144	1.9	bee (f)	abeille
-2021-05-24	5	29.425536	1.64	butterfly (m)	papillon
+2021-06-23	1	1	1.4	butterfly (m)	papillon
 2021-06-11	5	17.64	1.5	hen (f)	poule
-2021-05-11	4	42.4536	2.66	fly (f)	mouche
+2021-06-23	5	117.171936	2.76	fly (f)	mouche
 2021-04-15	7	1223.3592	3.1	onion (m)	oignon
 2021-06-21	5	107.751168	2.72	pig (m)	cochon
 2021-05-25	5	38.497536	1.96	shark (m)	requin
@@ -12,7 +12,7 @@
 2021-04-16	7	1223.3592	3.1	to freeze	gèler
 2021-04-16	7	1449.9072	3.2	fish (m)	poisson
 2021-06-21	5	107.751168	2.72	bean (m)	haricot
-2021-06-22	1	1	1.3	belt (f)	ceinture
+2021-06-23	2	6	1.4	belt (f)	ceinture
 2021-06-09	6	47.0016	1.8	cap (f)	casquette
 2021-06-04	5	24.48	1.7	glove (m)	gant
 2021-04-17	7	1107.69792	2.9	sock (f)	chausette
