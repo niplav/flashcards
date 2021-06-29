@@ -1,8 +1,8 @@
 2021-04-15	7	1268.6688	3.1	to write	écrire
 2021-04-15	8	221.929006713	2.04	ant (f)	fourmi
 2021-06-21	6	55.8144	1.9	bee (f)	abeille
-2021-06-24	2	6.0	1.5	butterfly (m)	papillon
-2021-06-11	5	17.64	1.5	hen (f)	poule
+2021-06-30	3	9.6	1.6	butterfly (m)	papillon
+2021-06-30	6	28.224	1.6	hen (f)	poule
 2021-06-23	5	117.171936	2.76	fly (f)	mouche
 2021-04-15	7	1223.3592	3.1	onion (m)	oignon
 2021-06-21	5	107.751168	2.72	pig (m)	cochon
@@ -12,9 +12,9 @@
 2021-04-16	7	1223.3592	3.1	to freeze	gèler
 2021-04-16	7	1449.9072	3.2	fish (m)	poisson
 2021-06-21	5	107.751168	2.72	bean (m)	haricot
-2021-06-23	2	6.0	1.4	belt (f)	ceinture
+2021-06-30	3	9.0	1.5	belt (f)	ceinture
 2021-06-09	6	47.0016	1.8	cap (f)	casquette
-2021-06-04	5	24.48	1.7	glove (m)	gant
+2021-06-30	6	44.064	1.8	glove (m)	gant
 2021-04-17	7	1107.69792	2.9	sock (f)	chausette
 2021-06-21	6	55.8144	1.9	wallet (m)	portefeuille
 2021-06-11	6	33.6384	1.46	dark	foncé
@@ -30,7 +30,7 @@
 2021-06-27	5	125.981856	2.86	kid (m)	gamin
 2021-06-27	5	125.981856	2.86	light	légèr
 2021-04-18	7	515.92518697	2.56	group/union (f)	union
-2021-06-11	4	16.32	1.7	stepbrother (m)	demi-frère
+2021-06-30	5	27.744	1.7	stepbrother (m)	demi-frère
 2021-06-04	6	55.8144	1.9	to cook	cusinier
 2021-04-18	6	440.91565056	3.08	to run	courir
 2021-04-18	7	487.710528307	2.42	son-in-law (m)	gendre
