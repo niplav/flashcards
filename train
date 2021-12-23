@@ -3,11 +3,7 @@
 # Poems
 # Long poems, currently learning
 
-fulg run -f ./nl_filter -r -R 16 -N 0 tao_te_king.crd
-
-# Short poems, currently learning
-
-fulg run -f ./nl_filter -r -R 16 -N 2 an_die_freude.crd
+fulg run -f ./nl_filter -r -R 16 -N 1 tao_te_king.crd
 
 # Short poems, already learned
 
@@ -15,6 +11,7 @@ fulg run -f ./nl_filter -r -R 16 -N 2 an_die_freude.crd
 
 fulg run -f ./nl_filter -r -R 10 -N 2 berglied.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 hyperions_schicksalslied.crd
+fulg run -f ./nl_filter -r -R 16 -N 2 an_die_freude.crd
 
 # English
 
@@ -27,10 +24,11 @@ fulg run -f ./nl_filter -r -R 10 -N 2 l_ennemi.crd
 # Songs
 # Currently learning
 
-fulg run -f ./nl_filter -r -R 10 -N 2 hymn_to_the_breaking_strain.crd
+fulg run -f ./nl_filter -r -R 10 -N rocky_road_to_dublin.crd
 
 # Learned
 
 fulg run -f ./nl_filter -r -R 10 -N 2 bones_in_the_ocean.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 ballad_of_peter_singer.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 bella_ciao.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 hymn_to_the_breaking_strain.crd
