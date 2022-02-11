@@ -24,10 +24,11 @@ fulg run -f ./nl_filter -r -R 10 -N 2 l_ennemi.crd
 # Songs
 # Currently learning
 
-fulg run -f ./nl_filter -r -R 10 -N 2 rocky_road_to_dublin.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 al_la_barricadas.crd
 
 # Learned
 
+fulg run -f ./nl_filter -r -R 10 -N 2 rocky_road_to_dublin.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 bones_in_the_ocean.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 ballad_of_peter_singer.crd
 fulg run -f ./nl_filter -r -R 10 -N 2 bella_ciao.crd
