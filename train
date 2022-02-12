@@ -24,7 +24,7 @@ fulg run -f ./nl_filter -r -R 10 -N 2 l_ennemi.crd
 # Songs
 # Currently learning
 
-fulg run -f ./nl_filter -r -R 10 -N 2 al_la_barricadas.crd
+fulg run -f ./nl_filter -r -R 10 -N 2 al_las_barricadas.crd
 
 # Learned
 
